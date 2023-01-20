@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-security
-        image: jeanflores2c93/aforo255-nodejs-security:latest
+        image: jeanflores2c93/aforo255-nodejs-security:1
         ports:
         - containerPort: 5001
         env:
